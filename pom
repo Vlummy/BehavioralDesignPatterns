@@ -1,0 +1,6 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.oyvindjohannessen.app</groupId>
+    <artifactId>behavioral-design-patterns</artifactId>
+    <version>1.0</version>
+</project>
